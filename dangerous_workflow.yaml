@@ -1,0 +1,4 @@
+optConfig:
+  optInRepos:
+  - scorecard-check-dangerous-workflow-e2e
+action: issue
